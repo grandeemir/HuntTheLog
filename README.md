@@ -1,5 +1,6 @@
-<img width="100" height="100" alt="huntthelogtm123412" src="https://github.com/user-attachments/assets/5432b18c-b203-4c99-96ba-fe87b0ed4b19" />
-
+<div align="center">
+  <img width="100" height="100" alt="huntthelogtm123412" src="https://github.com/user-attachments/assets/5432b18c-b203-4c99-96ba-fe87b0ed4b19" />
+</div>
 
 # [HuntTheLog](https://huntthelog.com)  ![Status](https://img.shields.io/badge/status-BETA-orange)
 
