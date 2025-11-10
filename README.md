@@ -1,4 +1,5 @@
-<img width="1563" height="1563" alt="huntthelogtm123412" src="https://github.com/user-attachments/assets/d427a68b-8e5f-44e1-97c4-eea2fb30d68c" />
+<img width="100" height="100" alt="huntthelogtm123412" src="https://github.com/user-attachments/assets/5432b18c-b203-4c99-96ba-fe87b0ed4b19" />
+
 
 
 
