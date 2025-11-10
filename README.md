@@ -1,3 +1,7 @@
+<img width="1563" height="1563" alt="huntthelogtm123412" src="https://github.com/user-attachments/assets/d427a68b-8e5f-44e1-97c4-eea2fb30d68c" />
+
+
+
 # [HuntTheLog](https://huntthelog.com)  ![Status](https://img.shields.io/badge/status-BETA-orange)
 
 
